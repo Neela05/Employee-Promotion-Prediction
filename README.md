@@ -1,4 +1,4 @@
-# Employee-Promotion-Prediction# 
+# Employee-Promotion-Prediction
 
 ##  Project Overview
 
@@ -19,7 +19,7 @@ The objective of this project is to:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - NumPy
